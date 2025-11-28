@@ -9,4 +9,4 @@
 
 
 ## Python code
-- [You can use code 'SAMw_segmentation.py']
+- You can use code 'SAMw_segmentation.py'
